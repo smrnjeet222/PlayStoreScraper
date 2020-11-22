@@ -1,0 +1,16 @@
+{
+  "name": "playstorescraper",
+  "version": "1.0.0",
+  "description": "Play Store Scrapper",
+  "main": "app.js",
+  "dependencies": {
+    "danfojs-node": "^0.1.5",
+    "google-play-scraper": "^8.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "run": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
